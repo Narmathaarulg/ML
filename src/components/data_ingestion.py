@@ -1,0 +1,1 @@
+#reading the requirements.txt file read,divide,train,test the data and also validate the data
